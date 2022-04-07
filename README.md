@@ -1,5 +1,5 @@
 # React Notes
-This is a small sample project where I created a notes website using just React.
+This is a small sample project where I created a notes website using React and styled-components.
 
 ![React Notes](./.github/screenshot.png)
 
